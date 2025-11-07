@@ -1,0 +1,50 @@
+[INFO] Appointment booked for Britt-Marie Landin (CPR 627051-0767) at Oslo Med Center. Diagnosis: Diabetes
+[INFO] Appointment booked for Torben Christiansen (CPR 574633-9429) at Oslo Med Center. Diagnosis: Asthma
+[INFO] Appointment booked for Lisa Jacobson (CPR 913278-3648) at Aarhus Hospital. Diagnosis: Asthma
+[INFO] Appointment booked for Alex Ahlqvist (CPR 302301-7913) at Karolinska. Diagnosis: Hypertension
+[INFO] Appointment booked for Samuel Karlsson (CPR 624688-2603) at Karolinska. Diagnosis: Hypertension
+[INFO] Appointment booked for Benny Eriksson (CPR 274506-6431) at Oslo Med Center. Diagnosis: Diabetes
+[INFO] Appointment booked for Laura Salas (CPR 160713-5116) at Aarhus Hospital. Diagnosis: Asthma
+[INFO] Appointment booked for Anders Ljunggren (CPR 130090-6553) at Aarhus Hospital. Diagnosis: Hypertension
+[INFO] Appointment booked for Claus Hermansen (CPR 847465-7481) at Oslo Med Center. Diagnosis: Asthma
+[INFO] Appointment booked for Valter Roos-Abdi (CPR 206026-9925) at Oslo Med Center. Diagnosis: Diabetes
+[INFO] Appointment booked for Univ.Prof. Nicolaj Berg (CPR 606777-7029) at Aarhus Hospital. Diagnosis: Hypertension
+[INFO] Appointment booked for Nancy Russell (CPR 609986-7726) at Aarhus Hospital. Diagnosis: Diabetes
+[INFO] Appointment booked for Hampus Johansson (CPR 443387-8501) at Oslo Med Center. Diagnosis: Hypertension
+[INFO] Appointment booked for Bo Bertelsen-Poulsen (CPR 551479-0610) at Karolinska. Diagnosis: Hypertension
+[INFO] Appointment booked for John Jefferson (CPR 105551-1767) at Oslo Med Center. Diagnosis: Diabetes
+[INFO] Appointment booked for Selma Jørgensen (CPR 198155-2791) at Oslo Med Center. Diagnosis: Hypertension
+[INFO] Appointment booked for Sofie Mortensen (CPR 484708-8274) at Karolinska. Diagnosis: Diabetes
+[INFO] Appointment booked for Jeffrey Keller (CPR 304191-8615) at Oslo Med Center. Diagnosis: Asthma
+[INFO] Appointment booked for Thea Thygesen-Thygesen (CPR 430111-0718) at Oslo Med Center. Diagnosis: Asthma
+[INFO] Appointment booked for Stuart Barrett (CPR 994082-9551) at Aarhus Hospital. Diagnosis: Asthma
+[INFO] Appointment booked for Prof. Vera Eriksen (CPR 167500-6365) at Karolinska. Diagnosis: Asthma
+[INFO] Appointment booked for Lars Toft (CPR 193634-1831) at Karolinska. Diagnosis: Hypertension
+[INFO] Appointment booked for Heather Jackson (CPR 599776-0489) at Aarhus Hospital. Diagnosis: Asthma
+[INFO] Appointment booked for Joseph Walker (CPR 377700-7580) at Karolinska. Diagnosis: Hypertension
+[INFO] Appointment booked for Prof. Hanne Mathiesen (CPR 996335-7088) at Oslo Med Center. Diagnosis: Hypertension
+[INFO] Appointment booked for Prof. James Bach (CPR 438785-8536) at Aarhus Hospital. Diagnosis: Asthma
+[INFO] Appointment booked for Ashley Gilbert (CPR 933574-6550) at Oslo Med Center. Diagnosis: Hypertension
+[INFO] Appointment booked for Mohamed Lindqvist (CPR 727350-5788) at Oslo Med Center. Diagnosis: Asthma
+[INFO] Appointment booked for Ellen Lindskog (CPR 319076-7331) at Karolinska. Diagnosis: Asthma
+[INFO] Appointment booked for April Torres (CPR 274312-4583) at Karolinska. Diagnosis: Hypertension
+[INFO] Appointment booked for Bryan Moore (CPR 982260-4221) at Oslo Med Center. Diagnosis: Asthma
+[INFO] Appointment booked for Lisa Chapman (CPR 864417-5863) at Karolinska. Diagnosis: Diabetes
+[INFO] Appointment booked for Britt Ismail (CPR 124888-5227) at Karolinska. Diagnosis: Hypertension
+[INFO] Appointment booked for Ellen Mikkelsen (CPR 651535-0329) at Karolinska. Diagnosis: Hypertension
+[INFO] Appointment booked for Kristina Sjöberg (CPR 730799-3777) at Karolinska. Diagnosis: Diabetes
+[INFO] Appointment booked for Martin Christensen (CPR 598541-1795) at Aarhus Hospital. Diagnosis: Asthma
+[INFO] Appointment booked for Univ.Prof. Alf Jessen (CPR 368635-1158) at Oslo Med Center. Diagnosis: Asthma
+[INFO] Appointment booked for Casper Bach (CPR 794388-8239) at Karolinska. Diagnosis: Hypertension
+[INFO] Appointment booked for Victoria Horton (CPR 124456-5755) at Aarhus Hospital. Diagnosis: Diabetes
+[INFO] Appointment booked for Bitten Kjær (CPR 357591-3210) at Aarhus Hospital. Diagnosis: Diabetes
+[INFO] Appointment booked for Paulina Larsen-Jessen (CPR 234372-1777) at Aarhus Hospital. Diagnosis: Diabetes
+[INFO] Appointment booked for Matthew Roberts (CPR 984018-8307) at Karolinska. Diagnosis: Asthma
+[INFO] Appointment booked for Univ.Prof. Sonny Østergaard (CPR 564768-0767) at Aarhus Hospital. Diagnosis: Hypertension
+[INFO] Appointment booked for Josef Andersson (CPR 666281-5476) at Oslo Med Center. Diagnosis: Diabetes
+[INFO] Appointment booked for Shannon Clark (CPR 342343-7956) at Karolinska. Diagnosis: Hypertension
+[INFO] Appointment booked for Christian Bech (CPR 834363-5889) at Oslo Med Center. Diagnosis: Hypertension
+[INFO] Appointment booked for Zenia Jørgensen (CPR 593413-7005) at Karolinska. Diagnosis: Hypertension
+[INFO] Appointment booked for Jennifer Mueller (CPR 490228-1651) at Aarhus Hospital. Diagnosis: Asthma
+[INFO] Appointment booked for Melissa Daniels (CPR 133866-5973) at Oslo Med Center. Diagnosis: Hypertension
+[INFO] Appointment booked for Heidi Winther (CPR 561236-6935) at Oslo Med Center. Diagnosis: Asthma
