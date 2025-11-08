@@ -1,9 +1,0 @@
-streamlit
-pandas
-spacy
-presidio-analyzer
-presidio-anonymizer
-sqlalchemy
-pymongo
-recordlinkage
-numpy
